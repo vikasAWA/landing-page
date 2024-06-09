@@ -144,3 +144,17 @@ h1 {
     padding: 3px 70px;
     padding: 5px 30px;
 }
+
+.footer {
+    display: flex;
+    justify-content: center;
+    background-color: #1F2937;
+    height: 100px;
+    align-items: center;
+}
+.footer div {
+    color: #f9faf8;
+    font-size: 20px;
+    padding: 10px;
+    
+}
